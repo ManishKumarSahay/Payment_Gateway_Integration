@@ -17,10 +17,10 @@ Payment Gateway Integration for Donating specific amount of Money directly to th
 
 1. Razorpay 
 ## 📌 Sneak Peek  :
-![HOME](https://github.com/SauravMukherjee44/Payment-Gateway-Integration/blob/5ed72517f2977e858e943c469fe49efd4664e3a1/img/Screenshot%20(248).png)
-![DONATION](https://github.com/SauravMukherjee44/Payment-Gateway-Integration/blob/56c0eaeb008274ca5a7ebbf76066027a90c0944c/img/Screenshot%20(250).png)
-![Payment Getway](https://github.com/SauravMukherjee44/Payment-Gateway-Integration/blob/56c0eaeb008274ca5a7ebbf76066027a90c0944c/img/Screenshot%20(251).png)
-![Receipt](https://github.com/SauravMukherjee44/Payment-Gateway-Integration/blob/56c0eaeb008274ca5a7ebbf76066027a90c0944c/img/Screenshot%20(253)_LI.jpg)
+![HOME](https://github.com/ManishKumarSahay/Payment_Gateway_Integration/blob/71d6f5b2614213f269cfc2a42893dabe4546c117/img/Screenshot%20(7).png)
+![DONATION]https://github.com/ManishKumarSahay/Payment_Gateway_Integration/blob/71d6f5b2614213f269cfc2a42893dabe4546c117/img/Screenshot%20(8).png)
+![Payment Getway](https://github.com/ManishKumarSahay/Payment_Gateway_Integration/blob/71d6f5b2614213f269cfc2a42893dabe4546c117/img/Screenshot%20(10).png)
+
 
 <h2>📬 Contact</h2>
 
