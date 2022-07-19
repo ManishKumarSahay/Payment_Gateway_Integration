@@ -2,7 +2,7 @@
 
 Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
 
-<a href="https://https://manishkumarsahay.github.io/Payment_Gateway_Integration/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://manishkumarsahay.github.io/Payment_Gateway_Integration/" target="_blank">**Visit Now** 🚀</a>
 
 #Frontend :
 
