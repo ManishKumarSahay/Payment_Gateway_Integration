@@ -34,5 +34,3 @@ If you want to contact me, you can reach me through below handles.
 
 © 2022 Manish Kumar Sahay
 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
